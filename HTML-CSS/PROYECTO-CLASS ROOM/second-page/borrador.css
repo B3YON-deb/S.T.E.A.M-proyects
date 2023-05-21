@@ -1,0 +1,49 @@
+.principal {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    
+}
+
+.section-banner {
+    position: absolute;
+    width: 980px;
+    height: 250px;
+}
+
+.banner{
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 974px;
+    height: 245px;
+    border: 1px solid black;
+}
+
+
+.banner /*image*/ {
+    background-image: url(./images/Aprende\ HTML5\ \(1\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 9px;
+}
+
+.smoke {
+    
+    
+}
+
+.text-learn-html {
+    display: flex;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 2.25rem;
+    font-weight: 500;
+    color: #fff;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    position: absolute;
+    top: 180px;
+    right: 290px;
+}
