@@ -179,8 +179,8 @@
 
 }
 
-.span-Desarrollo:hover{
-    text-decoration:underline;
+.span-Desarrollo:hover {
+    text-decoration: underline;
     transition: color 0.3s;
 }
 
@@ -194,7 +194,7 @@
 
 }
 
-.card-container .finally{
+.card-container .finally {
     display: flex;
     position: relative;
     top: 120px;
@@ -206,7 +206,7 @@
 
 }
 
-.card-container img{
+.card-container img {
     width: 25px;
     margin: 11px;
     margin-right: 30px;
